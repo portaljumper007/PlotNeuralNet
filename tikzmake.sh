@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-python $1.py 
+"C:\Users\encha\AppData\Local\Programs\Python\Python311\python.exe" $1.py 
 pdflatex $1.tex
 
 rm *.aux *.log *.vscodeLog
